@@ -51,7 +51,7 @@ The system uses role-based access control. You can use the following accounts fo
 ## 5. Usage (Hướng dẫn sử dụng)
 *   **Dashboard:** View real-time KPIs and access the AI Chatbot for quick queries.
 *   **Sales:** Go to "Orders" -> "Create New" -> Add Products -> "Payment" -> "Invoice".
-*   **Inventory:** Manage receipts and stock adjustments in the "Inventory Management" module [24].
+*   **Inventory:** Manage receipts and stock adjustments in the "Inventory Management" module.
 *   **Data Safety:** Access the "Backup & Restore" menu to safeguard system data.
 
 ## 6. Project Structure (Cấu trúc dự án)
