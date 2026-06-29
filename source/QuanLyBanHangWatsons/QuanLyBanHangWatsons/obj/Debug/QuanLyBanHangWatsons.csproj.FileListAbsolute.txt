@@ -1,0 +1,378 @@
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\QuanLyBanHangWatsons.exe
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\Guna.Charts.WinForms.dll
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\Guna.UI2.dll
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\QuanLyBanHangWatsons.exe.config
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\EnvDTE.dll
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\stdole.dll
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\Guna.Charts.WinForms.xml
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.csproj.AssemblyReference.cache
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FormTongQuanNV.resources
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmBackUp.resources
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmBaoCao.resources
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmCaiDat.resources
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmChiNhanh.resources
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmCTChiNhanh.resources
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmCTDonHang.resources
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmCTHoaDon.resources
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmCTKhachHang.resources
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmCTKhuyenMai.resources
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmCTLoaiSP.resources
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmCTNhaCungCap.resources
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmCTNhanVien.resources
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmCTPhieuNhap.resources
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmCTPhieuXuat.resources
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmCTSanPham.resources
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmCTThanhToan.resources
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmCTThuongHieu.resources
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmCTTKKhachHang.resources
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmCTTKNhanVien.resources
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmCTTonKho.resources
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmDangNhap.resources
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmDonHang.resources
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmDonHang_SuaKH.resources
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmDonHang_TaoDon.resources
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmHoaDon.resources
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmInHoaDon.resources
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmInPhieuNhap.resources
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmInPhieuXuat.resources
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmKhachHang.resources
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmKhuyenMai.resources
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmLoaiSP.resources
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmMainBH.resources
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmMainFull.resources
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmMainKH.resources
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmNhaCungCap.resources
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmNhanVien.resources
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmNhapCTDH.resources
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmNhapCTPN.resources
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmNhapCTPX.resources
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmPhieuNhap.resources
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmPhieuNhap_Tao.resources
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmPhieuXuat.resources
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmPhieuXuat_Tao.resources
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmRestore.resources
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmSanPham.resources
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmThanhToan.resources
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmThuongHieu.resources
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmTinNhan.resources
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmTKKhachHang.resources
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmTKNhanVien.resources
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmTongQuan.resources
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmTonKho.resources
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.MainN.resources
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.Properties.Resources.resources
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.csproj.GenerateResource.cache
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.csproj.CoreCompileInputs.cache
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBa.F0B57A87.Up2Date
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.exe
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.pdb
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.exe.config
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\QuanLyBanHangWatsons.pdb
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\Newtonsoft.Json.dll
+D:\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\Newtonsoft.Json.xml
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\QuanLyBanHangWatsons.exe.config
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\QuanLyBanHangWatsons.exe
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\QuanLyBanHangWatsons.pdb
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\Guna.Charts.WinForms.dll
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\Guna.UI2.dll
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\Microsoft.ReportViewer.Common.resources.dll
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\Microsoft.ReportViewer.Design.resources.dll
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\Microsoft.ReportViewer.WinForms.resources.dll
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\Newtonsoft.Json.dll
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\EnvDTE.dll
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\stdole.dll
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\Guna.Charts.WinForms.xml
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\Newtonsoft.Json.xml
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.csproj.AssemblyReference.cache
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.exe.config
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FormTongQuanNV.resources
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmBackUp.resources
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmBaoCao.resources
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmCaiDat.resources
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmChiNhanh.resources
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmCTChiNhanh.resources
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmCTDonHang.resources
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmCTHoaDon.resources
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmCTKhachHang.resources
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmCTKhuyenMai.resources
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmCTLoaiSP.resources
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmCTNhaCungCap.resources
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmCTNhanVien.resources
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmCTPhieuNhap.resources
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmCTPhieuXuat.resources
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmCTSanPham.resources
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmCTThanhToan.resources
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmCTThuongHieu.resources
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmCTTKKhachHang.resources
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmCTTKNhanVien.resources
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmCTTonKho.resources
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmDangNhap.resources
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmDonHang.resources
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmDonHang_SuaKH.resources
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmDonHang_TaoDon.resources
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmHoaDon.resources
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmInHoaDon.resources
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmInPhieuNhap.resources
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmInPhieuXuat.resources
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmKhachHang.resources
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmKhuyenMai.resources
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmLoaiSP.resources
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmMainBH.resources
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmMainFull.resources
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmMainKH.resources
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmNhaCungCap.resources
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmNhanVien.resources
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmNhapCTDH.resources
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmNhapCTPN.resources
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmNhapCTPX.resources
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmPhieuNhap.resources
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmPhieuNhap_Tao.resources
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmPhieuXuat.resources
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmPhieuXuat_Tao.resources
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmRestore.resources
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmSanPham.resources
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmThanhToan.resources
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmThuongHieu.resources
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmTinNhan.resources
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmTKKhachHang.resources
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmTKNhanVien.resources
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmTongQuan.resources
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmTonKho.resources
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.MainN.resources
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.Properties.Resources.resources
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.csproj.GenerateResource.cache
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.csproj.CoreCompileInputs.cache
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBa.F0B57A87.Up2Date
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.exe
+D:\File\2221004169_QuachNgocHan\Chương trình\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.pdb
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\QuanLyBanHangWatsons.exe.config
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\QuanLyBanHangWatsons.exe
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\QuanLyBanHangWatsons.pdb
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\Guna.Charts.WinForms.dll
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\Guna.UI2.dll
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\Microsoft.ReportViewer.Common.resources.dll
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\Microsoft.ReportViewer.Design.resources.dll
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\Newtonsoft.Json.dll
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\EnvDTE.dll
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\stdole.dll
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\Guna.Charts.WinForms.xml
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\Newtonsoft.Json.xml
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.csproj.AssemblyReference.cache
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.exe.config
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FormTongQuanNV.resources
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmBackUp.resources
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmBaoCao.resources
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmCaiDat.resources
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmChiNhanh.resources
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmCTChiNhanh.resources
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmCTDonHang.resources
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmCTHoaDon.resources
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmCTKhachHang.resources
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmCTKhuyenMai.resources
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmCTLoaiSP.resources
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmCTNhaCungCap.resources
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmCTNhanVien.resources
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmCTPhieuNhap.resources
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmCTPhieuXuat.resources
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmCTSanPham.resources
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmCTThanhToan.resources
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmCTThuongHieu.resources
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmCTTKKhachHang.resources
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmCTTKNhanVien.resources
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmCTTonKho.resources
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmDangNhap.resources
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmDonHang.resources
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmDonHang_SuaKH.resources
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmDonHang_TaoDon.resources
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmHoaDon.resources
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmInHoaDon.resources
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmInPhieuNhap.resources
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmInPhieuXuat.resources
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmKhachHang.resources
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmKhuyenMai.resources
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmLoaiSP.resources
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmMainBH.resources
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmMainFull.resources
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmMainKH.resources
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmNhaCungCap.resources
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmNhanVien.resources
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmNhapCTDH.resources
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmNhapCTPN.resources
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmNhapCTPX.resources
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmPhieuNhap.resources
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmPhieuNhap_Tao.resources
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmPhieuXuat.resources
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmPhieuXuat_Tao.resources
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmRestore.resources
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmSanPham.resources
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmThanhToan.resources
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmThuongHieu.resources
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmTinNhan.resources
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmTKKhachHang.resources
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmTKNhanVien.resources
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmTongQuan.resources
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.FrmTonKho.resources
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.MainN.resources
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.Properties.Resources.resources
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.csproj.GenerateResource.cache
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.csproj.CoreCompileInputs.cache
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBa.F0B57A87.Up2Date
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.exe
+D:\Project Watsons\source\QuanLyBanHangWatsons\QuanLyBanHangWatsons\obj\Debug\QuanLyBanHangWatsons.pdb
