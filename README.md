@@ -60,4 +60,3 @@ The system uses role-based access control. You can use the following accounts fo
 
 ## 7. Contributors (Người thực hiện)
 *   **Student:** Quách Ngọc Hân.
-*   **Supervisor:** Th.S. Trương Xuân Hương.
